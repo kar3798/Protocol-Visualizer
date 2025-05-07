@@ -32,6 +32,7 @@ A graphical tool to simulate and visualize basic embedded protocols like **UART*
 ---
 
 ## Project Structure
+```plaintext
 ProtocolSimulator/
 ├── gui/
 │   ├── app_window.py         # Main GUI logic
@@ -42,7 +43,7 @@ ProtocolSimulator/
 ├── .venv/                    # Virtual environment (not tracked)
 ├── README.md                 # Project documentation
 └── requirements.txt          # Dependencies
-
+```
 
 ---
 
