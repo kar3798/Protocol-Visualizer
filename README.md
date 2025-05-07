@@ -50,7 +50,7 @@ ProtocolSimulator/
 ## Getting Started
 
 1. **Clone the repository:**
-git clone https://github.com/yourusername/Protocol-Visualizer.git
+git clone shttps://github.com/kar3798/Protocol-Visualizer.git
 cd Protocol-Visualizer
 
 2. **Set up the virtual environment:**
