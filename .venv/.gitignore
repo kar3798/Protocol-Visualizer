@@ -1,0 +1,34 @@
+# Python Bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual Environment (your .venv folder)
+.venv/
+venv/
+ENV/
+env/
+.venv/*
+
+# VSCode and PyCharm Settings (IDE-specific)
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS-Specific Files
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# Python Specific
+*.egg-info/
+*.eggs/
+*.coverage
+*.coverage.*
+.cache/
+.pytest_cache/
