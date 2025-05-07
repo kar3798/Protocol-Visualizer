@@ -69,7 +69,7 @@ python main.py
 
 Include a screenshot here for better understanding:
 
-![Protocol Visualizer Screenshot](./screenshots/example.png)
+![Protocol Visualizer Screenshot](./screenshots/GUI_View_Protocol_Simulator.png)
 
 ---
 
